@@ -65,9 +65,10 @@
 h1{
     margin-top: 70px;
 }
-@media screen (max-width:769px){
-    .col.-xs-12{
-        margin: auto;
+@media (max-width:768px){
+    #main-content{
+        margin-left: 30px;
+        margin-right: 30px;
     }
 }
 
